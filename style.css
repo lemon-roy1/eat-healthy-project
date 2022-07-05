@@ -48,10 +48,23 @@ section{
     margin-left: 40px;
     margin-right: 70px;
     padding: 30px;
-   border-radius:10px;
+    border-radius:10px;
     box-shadow: 10px 10px 50px greenyellow;
     
 }
 .photo-farem .photo img{
     width: 100%;
+}
+.navegation{
+    height: 20%;
+     flex-wrap: wrap;
+}
+.tag{
+    text-align: left;
+}
+.follow{
+    text-align: center; 
+}
+.like{
+    text-align: end;
 }
